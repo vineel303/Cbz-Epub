@@ -1,7 +1,7 @@
 import AppData.Epubs2Pics as Epubs2Pics
 import AppData.Cbzs2Pics as Cbzs2Pics
 import AppData.Pics2Cbzs as Pics2Cbzs
-import TerminalFormatting as f
+import vinTerminalFormatting as f
 import os
 
 defaultPath = r"D:\Code\ProgramFiles\Cbz&Epub\#Here"
